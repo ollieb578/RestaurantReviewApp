@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34949310012",
+    "project_id": "courseworkreviewapp",
+    "storage_bucket": "courseworkreviewapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34949310012:android:3006c8903cbd5d31f48539",
+        "android_client_info": {
+          "package_name": "com.example.courseworkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34949310012-02ngqhlaedbmc6vp6jbv99pvo6j9319u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGa3QRQFGLonjizqGtUI72nAlYqvNvx7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34949310012-02ngqhlaedbmc6vp6jbv99pvo6j9319u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

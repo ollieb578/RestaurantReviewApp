@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ReviewApp</string>
+    <string name="app_label">Review</string>
+    <string name="search_hint">Search</string>
+    <string name="log_in_text">Log In</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="log_out_text">Log Out</string>
+    <string name="account_text">Account</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="email_address_text">Email address</string>
+    <string name="password_text">Password</string>
+    <string name="location_placeholder_text">Location</string>
+    <string name="review_placeholder_text">Review</string>
+    <string name="score_placeholder">Score/5</string>
+    <string name="r_name_placeholder">Restaurant</string>
+    <string name="user_email_placeholder">User Email</string>
+    <string name="create_review_score_hint">Rate out of 5!</string>
+    <string name="create_review_text_hint">Type your review here!</string>
+    <string name="submit">Submit</string>
+    <string name="restaurant_name_placeholder">Restaurant Name</string>
+    <string name="restaurant_prompt_text">Add new Restaurant!</string>
+    <string name="restaurant_name_hint">Restaurant Name</string>
+    <string name="ridplaceholder_text">ridplaceholder</string>
+    <string name="searchicon_title">SearchIcon</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/search_button"
+        android:onClick="openSearch"
+        android:icon="@drawable/searchicon"
+        app:showAsAction="ifRoom"
+        android:title="@string/searchicon_title" />
+
+
+    <item android:id="@+id/account_button"
+        android:onClick="openAccount"
+        android:title="@string/account_text">
+    </item>
+
+    <item android:id="@+id/logout_button"
+        android:onClick="logout"
+        android:title="@string/log_out_text">
+    </item>
+</menu>
